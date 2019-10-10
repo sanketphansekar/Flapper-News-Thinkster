@@ -19,8 +19,8 @@
     "morgan": "~1.9.1",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
-    "serve-favicon": "~2.3.0",
-    "snyk": "^1.189.0"
+    "serve-favicon": "~2.4.5",
+    "snyk": "^1.234.0"
   },
   "snyk": true
 }
